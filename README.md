@@ -25,10 +25,10 @@ _Personal checklist to write and review papers_
 - Shorter length than the literature review.
 
 ### Structure
-1. Describe the main focus of the paper.
+1. Describe the problem and why it is important.
 2. Brief description of each of the concepts included in the title and the abstract.
-3. Existing approaches overview.
-4. Why this study is relevant.
+3. Overview of existing approaches to the problem.
+4. Why this study is different and relevant.
 5. Organization of the paper.
 
 # Introduction.Contribution
