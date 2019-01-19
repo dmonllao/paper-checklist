@@ -9,6 +9,7 @@ _Personal checklist to write and review papers_
 
 # Abstract
 - State the focus of the paper clearly.
+- Avoid technical concepts when possible or briefly describe them (we can not assum that the reader knows about this area).
 - Word limit.
 
 ### Structure
@@ -18,7 +19,7 @@ _Personal checklist to write and review papers_
 
 # Introduction
 - Introduction to the concepts included in the title and the abstract.
-- Other approaches to the problem the study tries to solve.
+- General overview about other approaches to the same problem this study is trying to solve (no need to detail them, that is for the "Literature review" section). 
 - Why this approach is different and/or better.
 - It can include references.
 - Shorter length than the literature review.
@@ -27,7 +28,7 @@ _Personal checklist to write and review papers_
 1. Describe the main focus of the paper.
 2. Brief description of each of the concepts included in the title and the abstract.
 3. Existing approaches overview.
-4. Why the study is relevant.
+4. Why this study is relevant.
 5. Organization of the paper.
 
 # Introduction.Contribution
