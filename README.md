@@ -13,9 +13,10 @@ _Personal checklist to write and review papers_
 - Word limit.
 
 ### Structure
-1. Short description of the problem.
-2. Proposed solution.
-3. Results highlights.
+1. Short description of the problem (context).
+2. Proposed solution (unresolved problem addressed).
+3. Methodology.
+4. Results highlights.
 
 # Introduction
 - Introduction to the concepts included in the title and the abstract.
